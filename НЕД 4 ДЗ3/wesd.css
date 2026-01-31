@@ -1,0 +1,156 @@
+.block{
+    display:block;
+    width:120px;
+    height:152px;
+}
+.inline{
+    display:inline;
+    padding:3px;
+    border:1px solid pink;
+    height:152px;
+    width:120px;
+}
+.flex{
+    display:flex;
+    width:120px;
+    height:152px;
+}
+.container{
+    display:flex;
+    /*flex-direction:column;*/
+    /*flex-wrap:wrap;*/
+    align-content:center;
+    width:120px;
+    height:120px;
+    background-color:rgb(186, 110, 177);
+}
+.flex1{
+    width:31px;
+    height: 35px;
+    background-color:pink;
+}
+.contt{
+    display:flex;
+   height:300px;
+   /*align-content:space-around;*/
+   /*align-items:flex-start;*/
+   justify-content:space-between;
+    border:2px solid black;
+    
+}
+.item2{
+    margin:10px;
+    padding:20px;
+    border:1px solid red;
+    background-color: aliceblue;
+    text-align:center;
+}
+.defcont{
+    display:flex;
+}
+.grow{
+
+    flex-grow:13;
+    width:25px;
+    height:25px;
+    background-color:green;
+}
+.shrink{
+   
+    flex-shrink:21;
+    width:25px;
+    height:25px;
+    background-color:yellow;
+
+}
+.basis{
+  
+    flex-basis:30%;
+    width:25px;
+    height:25px;
+    background-color:palevioletred
+}
+.Container{
+    display:flex;
+    height:300px;
+    border:2px solid pink;
+}
+.flexitem1{
+    display:flex;
+    flex: 0 0 50%;
+    background-color:mediumpurple;
+    border:1px solid black;
+}
+.flexitem2{
+    display:flex;
+    align-items:stretch;
+    align-content:stretch;
+    background-color:rgb(142, 12, 66);
+    border:1px solid black;
+}
+.flexitem3{
+    display:flex;
+    flex: 0 0 100%;
+    background-color:rgb(124, 154, 17);
+    align-items:stretch;
+}
+.bcont{
+    display:flex;
+    height:300px;
+    border:2px solid rgb(1, 1, 1);
+   align-items:center;
+}
+.tre{
+    width:550px;
+    height:250px;
+    background-color:orange;
+}
+.utr{
+    width:550px;
+    height:250px;
+    background-color:lightblue;
+}
+.asd{
+    width:550px;
+    height:250px;
+    background-color:lightgreen;
+}
+.warhammer{
+    display:flex;
+    flex: 0 0 30%;
+    margin: 10px;
+    padding:20px;
+    border:2px solid pink;
+}
+.warhammer .cards{
+    flex: 0 0 30%;
+    box-sizing: border-box;
+}
+.warhammer img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
