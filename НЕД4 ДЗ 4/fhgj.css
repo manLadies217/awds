@@ -1,0 +1,308 @@
+body{
+font-family:sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f9f9f9;
+}
+.header{
+background-color: white;
+margin-bottom: 22px;
+padding:20px 48px;
+display:flex;
+align-items: center;
+justify-content: space-between;
+border-bottom: 1.5px solid black;
+}
+.header-block{
+display: flex;
+align-items: center;
+gap: 32px;
+}
+.logo{
+    display: flex;
+    align-items: start;
+}
+.nav{
+    align-items: center;
+    display: flex;
+    gap:48px
+}
+.nav a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #242424
+
+}
+.nav a:active{
+    color:#5856D6;
+}
+.buttons{
+    display:flex;
+    gap: 8px;
+}
+
+.btn {
+padding:10px;
+border:none;
+border-radius: 6px;
+cursor:pointer;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+}
+.btn-second{
+    background-color:#f8f8f8 ;
+    color: #242424;
+}
+.btn-primary{
+    background-color: #5856D6;
+    color: #f8f8f8;
+}
+
+
+.header1{
+background-color: white;
+margin-bottom:12px;
+display: flex; 
+justify-content: space-between;
+align-items: center;
+padding:12px 40px;
+border-bottom:1.5px solid pink;
+height:65px;
+}
+.logo-atrr{
+display: flex;
+align-items: center;
+gap:120px;
+}
+.logo2{
+display: flex;
+align-items: start;
+}
+.nav1{
+display: flex;
+align-items: space-between;
+gap: 40px;
+}
+.nav1 a{
+text-decoration: none;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+color: #000000;
+}
+.nav1 a:active{
+color:#5856D6;
+}
+.btn{
+    padding:12px;
+    border-radius: 8px;
+    gap: 10px;
+    height: 41px;
+    box-sizing: border-box;
+    outline: none;
+}
+.btn-1{
+    background-color:#000000;
+    color: #f8f8f8;
+
+}
+
+
+.header2{
+background-color: white;
+margin-bottom:20px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px 20px;
+border-bottom:1.5px solid goldenrod;
+}
+
+.logo21{
+display: flex;
+align-items: start;
+align-items: center;
+justify-content: space-between;
+width: 40px;
+height:40px;
+gap:32px;
+}
+.logo22{
+display: flex;
+align-items: start;
+align-items: center;
+justify-content: space-between;
+width: 40px;
+height:40px;
+gap:8px;
+}
+.logo23{
+display: flex;
+align-items: start;
+justify-content: space-between;
+width: 40px;
+height:40px;
+gap:8px
+}
+.nav2{
+display: flex;
+align-items: center;
+gap:32px;
+}
+.nav2 a{
+text-decoration: none;
+font-weight:500;
+font-size:15px;
+line-height: 20px;
+color:#242424;
+}
+.nav2 a:active{
+color:#5856D6;
+}
+.Button2{
+display: flex;
+gap: 6px;
+align-items: center;
+border-radius: 8px;
+}
+.btn-2{
+background-color:#5C53E9;
+color: #FFFFFF;
+}
+
+
+.header3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:36px 36px;
+    background-color:#FFFFFF ;
+    border-bottom: 1.5px solid blueviolet;
+}
+.logo31{
+    display: flex;
+    align-items: start;
+    align-items: center;
+    width: 113.7px;
+    height:30px;
+    gap:10px;
+}
+.logo32{
+    display: flex;
+    align-items: start;
+    align-items: center;
+    width: 33px;
+    height:24px;
+    gap:10px;
+}
+.nav3{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    font-weight: 400;
+    font-size:16px;
+    line-height:100%;
+}
+.nav3 a{
+    text-decoration: none;
+    color:#000000
+}
+.header4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1.5px solid palevioletred;
+    padding:36px 36px;
+    background-color: #111928;
+}
+.logo40{
+    display: flex;
+    align-items: start;
+    align-items: center;
+    width: 113.7px;
+    height:30px;
+    gap:10px;
+    color:#f9f9f9
+}
+.nav4{
+    display:flex;
+    align-items: center;
+    gap:50px;
+}
+.nav4 a{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+.header5{
+    display:flex;
+    padding:36px 36px;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1.5px solid #572d4d;
+    gap:50px;
+    background-color:#111928;
+}
+
+.logo51{
+    display: flex;
+    align-items: start;
+    align-items: center;
+    width:113.7px;
+    height:30px;
+    gap:10px;
+}
+.logo52{
+    display: flex;
+    align-items:start;
+    align-items:center;
+    width:500px;
+    height:44px;
+    gap:10px;
+}
+.nav5{
+    display: flex;
+    align-items: center;
+    gap:50px;
+}
+.nav5 a{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
