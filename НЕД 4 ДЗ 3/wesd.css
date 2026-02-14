@@ -76,20 +76,20 @@
     border:2px solid pink;
 }
 .flexitem1{
-    display:flex;
+   
     flex: 0 0 50%;
     background-color:mediumpurple;
     border:1px solid black;
 }
 .flexitem2{
-    display:flex;
+   
     align-items:stretch;
     align-content:stretch;
     background-color:rgb(142, 12, 66);
     border:1px solid black;
 }
 .flexitem3{
-    display:flex;
+   
     flex: 0 0 100%;
     background-color:rgb(124, 154, 17);
     align-items:stretch;
