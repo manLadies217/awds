@@ -308,8 +308,9 @@ width:100%;
 .Hcard3{
 width:380px;
 }
-.Hbox1{
-padding:50px 89px 50px 44px;
+
+.Hblock2{
+padding:50px 96px 24px 44px;
 }
 .Htitle1{
 color:#2E363E;
@@ -317,6 +318,7 @@ font-weight:700;
 font-size:24px;
 line-height: 143%;
 margin-bottom:12px;
+
 }
 .Hdescription{
 color:#2E363E;
@@ -324,6 +326,7 @@ font-weight:400;
 font-size:16px;
 line-height: 150%;
 margin-bottom:24px ;
+
 }
 .Hcost{
 color:#434B53;
@@ -331,6 +334,7 @@ font-weight: 500;
 font-size: 24px;
 line-height: 150%;
 margin-bottom: 14px;
+
 }
 .Hbtn4{
     background-color:#FED84C;
@@ -341,6 +345,7 @@ margin-bottom: 14px;
     border-radius:8px;
     border:none;
     padding:20px 40px;
+ 
 }
 
 
