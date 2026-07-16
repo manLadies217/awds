@@ -1,0 +1,31 @@
+.frte{
+font-family:"Geist pixel";
+font-weight: 780;
+}
+@font-face {
+    font-family:"hibur" ;
+    src: url(./HiburMono-Regular.ttf);
+}
+.KLH{
+    color:rebeccapurple;
+    font-family:"hibur";
+}
+p{
+    color:goldenrod;
+     font-family:"hibur""Giest pixel""wata""fgs";
+}
+h1{
+    font-family:"Giest pixel""hibur""wata""fgs";
+    font-weight: 780;
+}
+@font-face {
+    font-family:"wata";
+    src: url(./NotoSansMendeKikakui-Regular.ttf);
+}@font-face{
+    font-family: "fgs";
+    src:url(./Poppins-Italic.ttf)
+}
+
+
+
+
