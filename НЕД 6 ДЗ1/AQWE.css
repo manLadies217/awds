@@ -1,0 +1,39 @@
+.element{
+background:radial-gradient(circle,pink,black,red);
+width:200px;
+height:200px;
+    
+}
+.text{
+text-shadow: 2px 2px 4px rgba(2, 2, 2, 0.614);
+}
+.boxShadow{
+    box-shadow: 10px 10px 5px 2px rgba(0,0,0,0.75);
+    width:200px;
+    height:100px;
+    background-color:pink
+}
+.textShadow{
+    text-shadow: 2px 2px 4px rgba(2, 2, 2, 0.614);
+    font-size:30px;
+}
+.linear-gradient{
+    background: linear-gradient(to right, red, yellow);
+    width:200px;
+    height:200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
